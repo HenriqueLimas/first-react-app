@@ -1,0 +1,33 @@
+{
+  "name": "first-react-app",
+  "version": "0.0.0",
+  "description": "Code from the React tutorial.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HenriqueLimas/first-react-app.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "comment",
+    "example"
+  ],
+  "author": "HenriqueLimas",
+  "bugs": {
+    "url": "https://github.com/HenriqueLimas/first-react-app/issues"
+  },
+  "homepage": "https://github.com/HenriqueLimas/first-react-app",
+  "engines" : {
+    "node" : "0.12.x"
+  }
+}

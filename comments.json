@@ -14,5 +14,9 @@
     {
         "author": "teste",
         "text": "sdfad"
+    },
+    {
+        "author": "Henrique LImas",
+        "text": "this is **another** comment"
     }
 ]
